@@ -1,0 +1,2 @@
+var securityQuestions = [[question: “What was your first pet’s name?”, expectedAnswer: “Sammy”], [question: “What is your mother’s maiden name?”, expectedAnswer: “hamburger”], [question: “Where were you born?”, expectedAnswer: “Florida”]]
+
